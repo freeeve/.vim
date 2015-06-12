@@ -1,3 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =3
 let g:netrw_dirhist_1='/Users/wfreeman/asciidoc-slides/content/training/shared/cypher/cypher_refresher'
+let g:netrw_dirhist_2='/home/wfreeman/gocode/src/github.com/wfreeman/saltbites/web/genta-coming-soon-v2/documentation'
+let g:netrw_dirhist_3='/home/wfreeman/gocode/src/github.com/wfreeman/saltbites/web/genta-coming-soon-v2'

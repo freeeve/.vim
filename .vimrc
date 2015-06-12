@@ -70,3 +70,6 @@ au FocusLost * :wa
 inoremap jj <ESC>
 
 set noswapfile
+set tabstop=2
+set shiftwidth=2
+set expandtab
